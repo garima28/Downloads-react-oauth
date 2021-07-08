@@ -1,17 +1,17 @@
 # React OAuth2 Login
 
-React component for [OAuth2 login](https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce/?utm_campaign=text_website_all_multiple_dev_dev_oauth-pkce_null&utm_source=oauthio&utm_medium=cpc).
+React component for [OAuth2 login]
 
 ## Installation
 
 ```console
-yarn add @okteto/react-oauth2-login
+yarn add @example/react-oauth2-login
 ```
 
 or
 
 ```console
-npm install @okteto/react-oauth2-login
+npm install @example/react-oauth2-login
 ```
 
 ## Usage
@@ -102,7 +102,5 @@ Pass `state` value as a parameter of the redirect URI.
 $ yarn start
 ```
 
-Webpack development server starts at [http://localhost:8080](http://localhost:8080), loading [example/index.html](github.com/okteto/react-oauth2-login/tree/master/example/index.html).
+Webpack development server starts at [http://localhost:8080](http://localhost:8080), loading [example/index.html](github.com/example/react-oauth2-login/tree/master/example/index.html).
 
-
-*This component was inspired by https://github.com/checkr/react-github-login*
